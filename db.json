@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Ventilador Arno 6 pás",
+      "price": "369.89"
+    },
+    {
+      "name": "Geladeira Panasonic Inverter",
+      "price": "2789.99",
+      "id": 4
+    },
+    {
+      "name": "AirFryer 4L",
+      "price": "459.90",
+      "id": 6
+    },
+    {
+      "name": "NoteBook Acer Aspire-Z",
+      "price": "3599.99",
+      "id": 7
+    },
+    {
+      "name": "TV Smart Philips 56''",
+      "price": "3199.89",
+      "id": 8
+    }
+  ]
+}
