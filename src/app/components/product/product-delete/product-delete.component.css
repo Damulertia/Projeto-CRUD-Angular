@@ -1,0 +1,19 @@
+#buttonCreate {
+    background-color: #e35e6b;
+}
+
+#buttonCancel {
+    background-color: #7a8388;
+    color: #71bae4;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 15px;
+    margin-top: 20px;
+}
